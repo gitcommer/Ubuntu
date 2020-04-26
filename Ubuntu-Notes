@@ -1,0 +1,66 @@
+26 April 2020
+
+INSTALL NODEJS
+INSTALL YARN
+SEARCH, INSTALL & UNINSTALL SOFTWARE
+TERMINAL COMMAND
+CREATE REACT APP
+SHUTTER
+SMARTGIT
+STRESS
+STICKY NOTES
+
+INSTALL NODEJS
+----------------------------------------------------------------------------------------
+sudo apt update 			 										//update your system
+sudo apt install curl 		
+curl -v 
+
+https://github.com/nodesource/distributions
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash - 	//curl -sl (shotcut)
+sudo apt-get install node
+node -v
+npm -v
+
+INSTALL YARN
+----------------------------------------------------------------------------------------
+https://stackoverflow.com/questions/46013544/yarn-install-command-error-no-such-file-or-directory-install
+
+SEARCH, INSTALL & UNINSTALL SOFTWARE
+----------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=EwezNTJ-Lj0
+apt-cache search snake - search snake software to find the exact name of the package or use the manual
+					   - manual - folder/computer/usr/share/applications (all installed software)
+					   - search on the software name, copy and paste in the desktop
+sudo apt-get install snake4 - install software snake4(package name)
+sudo apt-get remove snake4
+
+TERMINAL COMMAND
+----------------------------------------------------------------------------------------
+ls
+cd Desktop
+
+CREATE REACT APP
+----------------------------------------------------------------------------------------
+https://www.techomoro.com/how-to-install-and-setup-a-react-app-on-ubuntu-18-04-1/
+
+SHUTTER
+----------------------------------------------------------------------------------------
+sudo apt install shutter -y
+
+SMARTGIT
+----------------------------------------------------------------------------------------
+install git and smartgit
+
+commit - select file, message, commit
+clone - remote, add, paste git link, add
+push - save online
+clone - next, folder to save, 
+
+STRESS
+----------------------------------------------------------------------------------------
+- mawala ang ka labad og kabagot kong ma solve ang problem
+
+STICKY NOTES
+----------------------------------------------------------------------------------------
+https://www.addictivetips.com/ubuntu-linux-tips/sticky-notes-on-linux-indicator-stickynotes/
